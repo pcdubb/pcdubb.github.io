@@ -1,0 +1,2328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FY17 in-Design</name>
+		<Placemark>
+			<name>Replace Discharge Pipes and Valves, Dry Dock 6</name>
+			<description><![CDATA[EPROJECT NUMBER: 1331698<br>LOCATION: DD6<br>LAT: 35.295486<br>Long: 139.6659695<br>Building description: Dry Dock 6<br>Customer: SRF-JRMC<br>Funding: SRM<br>PS Code: E2<br>ECR: 10/2/2016<br>Awd: 4/5/2017<br>Duration (Days): 365<br>BOD: 4/5/2018<br>Priority: 38<br>CWE:  $6,753,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-0-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1331698.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>DD6</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.295486</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6659695</value>
+				</Data>
+				<Data name='Building description'>
+					<value>Dry Dock 6</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>10/2/2016</value>
+				</Data>
+				<Data name='Awd'>
+					<value>4/5/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>365.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>4/5/2018</value>
+				</Data>
+				<Data name='Priority'>
+					<value>38.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $6,753,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6659695,35.295486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A61, RENOVATE MECHANICAL AND ELECTRICAL EQUIPMENTS</name>
+			<description><![CDATA[EPROJECT NUMBER: 1346260<br>LOCATION: A61<br>LAT: 35.2903611<br>Long: 139.6616913<br>Building description: WAREHOUSE/ADMIN OFC<br>Customer: SRF-JRMC<br>Funding: SRM<br>PS Code: E2<br>ECR: 4/22/2017<br>Awd: 7/21/2017<br>Duration (Days): 365<br>BOD: 7/21/2018<br>Priority: 3<br>CWE:  $4,746,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-1-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1346260.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A61</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2903611</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6616913</value>
+				</Data>
+				<Data name='Building description'>
+					<value>WAREHOUSE/ADMIN OFC</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>4/22/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>7/21/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>365.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>7/21/2018</value>
+				</Data>
+				<Data name='Priority'>
+					<value>3.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $4,746,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6616913,35.2903611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Upgrade electrical powersupply at X17 area in Bldg. A47</name>
+			<description><![CDATA[EPROJECT NUMBER: 1112738<br>LOCATION: A47<br>LAT: 35.2882878<br>Long: 139.6608999<br>Building description: SHIP FITTERS SHOP<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: 10/30/2016<br>Awd: 1/20/2017<br>Duration (Days): 240<br>BOD: 9/25/2017<br>Priority: 80<br>CWE:  $2,127,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-2-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1112738.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A47</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2882878</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6608999</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SHIP FITTERS SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>10/30/2016</value>
+				</Data>
+				<Data name='Awd'>
+					<value>1/20/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>240.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>9/25/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>80.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $2,127,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6608999,35.2882878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-J6, Replace deteriorated six 6 cast iron suction pipes.</name>
+			<description><![CDATA[EPROJECT NUMBER: 1383219<br>LOCATION: J6<br>LAT: 35.2948743<br>Long: 139.6643892<br>Building description: DRY DOCK PUMP HSE U/G<br>Customer: SRF-JRMC<br>Funding: SRM<br>PS Code: E2<br>ECR: 10/31/2016<br>Awd: 3/31/2017<br>Duration (Days): 365<br>BOD: 3/31/2018<br>Priority: 2<br>CWE:  $1,200,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-3-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1383219.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>J6</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2948743</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6643892</value>
+				</Data>
+				<Data name='Building description'>
+					<value>DRY DOCK PUMP HSE U/G</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>10/31/2016</value>
+				</Data>
+				<Data name='Awd'>
+					<value>3/31/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>365.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>3/31/2018</value>
+				</Data>
+				<Data name='Priority'>
+					<value>2.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $1,200,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6643892,35.2948743,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-DD6, Repair gallery columns on both port and starboard sides.</name>
+			<description><![CDATA[EPROJECT NUMBER: 1383215<br>LOCATION: DD6<br>LAT: 35.2953459<br>Long: 139.6666991<br>Building description: Dry Dock 6<br>Customer: SRF-JRMC<br>Funding: SRM<br>PS Code: E2<br>ECR: 10/30/2016<br>Awd: 1/28/2017<br>Duration (Days): 180<br>BOD: 7/27/2017<br>Priority: 21<br>CWE:  $999,999.00 ]]></description>
+			<styleUrl>#icon-seq2-0-4-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1383215.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>DD6</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2953459</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6666991</value>
+				</Data>
+				<Data name='Building description'>
+					<value>Dry Dock 6</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>10/30/2016</value>
+				</Data>
+				<Data name='Awd'>
+					<value>1/28/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>180.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>7/27/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>21.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $999,999.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6666991,35.2953459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REPLACE TRANSFORMER 60HT-BERTH-8-1</name>
+			<description><![CDATA[EPROJECT NUMBER: 1380942<br>LOCATION: A164<br>LAT: 35.2916205<br>Long: 139.6615624<br>Building description: SUBSTATION<br>Customer: PW UTIL<br>Funding: MMRP<br>PS Code: E2<br>ECR: 1/30/2017<br>Awd: 4/30/2017<br>Duration (Days): 180<br>BOD: 10/27/2017<br>Priority: 6<br>CWE:  $900,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-5-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1380942.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A164</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2916205</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6615624</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SUBSTATION</value>
+				</Data>
+				<Data name='Customer'>
+					<value>PW UTIL</value>
+				</Data>
+				<Data name='Funding'>
+					<value>MMRP</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>1/30/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>4/30/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>180.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>10/27/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>6.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $900,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6615624,35.2916205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Replace Transformer 60HT-BERTH-8-2</name>
+			<description><![CDATA[EPROJECT NUMBER: 1380944<br>LOCATION: A164<br>LAT: 35.2915505<br>Long: 139.6611118<br>Building description: SUBSTATION<br>Customer: PW UTIL<br>Funding: MMRP<br>PS Code: E2<br>ECR: 1/30/2017<br>Awd: 4/30/2017<br>Duration (Days): 180<br>BOD: 10/27/2017<br>Priority: 7<br>CWE:  $900,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-6-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1380944.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A164</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2915505</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6611118</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SUBSTATION</value>
+				</Data>
+				<Data name='Customer'>
+					<value>PW UTIL</value>
+				</Data>
+				<Data name='Funding'>
+					<value>MMRP</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>1/30/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>4/30/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>180.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>10/27/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>7.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $900,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6611118,35.2915505,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A47, ASBESTOS REMOVAL FOR RENOVATE LAUNDRY ROOM</name>
+			<description><![CDATA[EPROJECT NUMBER: 1341730<br>LOCATION: A47<br>LAT: 35.2888132<br>Long: 139.6609536<br>Building description: SHIP FITTERS SHOP<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: 7/29/2016<br>Awd: 9/27/2016<br>Duration (Days): 90<br>BOD: 12/26/2016<br>Priority: 84<br>CWE:  $388,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-7-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1341730.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A47</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2888132</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6609536</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SHIP FITTERS SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>7/29/2016</value>
+				</Data>
+				<Data name='Awd'>
+					<value>9/27/2016</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>12/26/2016</value>
+				</Data>
+				<Data name='Priority'>
+					<value>84.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $388,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6609536,35.2888132,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-B12,  MODIFY WORKING RADIUS FOR LC47 and  LC48</name>
+			<description><![CDATA[EPROJECT NUMBER: 1566945<br>LOCATION: B12<br>LAT: 35.2939244<br>Long: 139.6631655<br>Building description: Berth 12<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: H84<br>ECR: 1/15/2017<br>Awd: 6/30/2017<br>Duration (Days): 90<br>BOD: 9/30/2017<br>Priority: 20<br>CWE:  $100,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-8-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1566945.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>B12</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2939244</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6631655</value>
+				</Data>
+				<Data name='Building description'>
+					<value>Berth 12</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>H84</value>
+				</Data>
+				<Data name='ECR'>
+					<value>1/15/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>6/30/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>9/30/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>20.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $100,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6631655,35.2939244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Replace existing bird barriers on Portal cranes LC41, LC44 at Dry-dock 5 and LC46 at Berth 8</name>
+			<description><![CDATA[EPROJECT NUMBER: 1553615<br>LOCATION: DD5<br>LAT: 35.2898855<br>Long: 139.659775<br>Building description: Dry Dock 5<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: J7<br>ECR: <br>Awd: <br>Duration (Days): <br>BOD: <br>Priority: 23<br>CWE:  $100,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-9-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1553615.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>DD5</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2898855</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.659775</value>
+				</Data>
+				<Data name='Building description'>
+					<value>Dry Dock 5</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>J7</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value></value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>23.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $100,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.659775,35.2898855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UPGRADE LMI ON LC41 THRU LC46</name>
+			<description><![CDATA[EPROJECT NUMBER: 1566919<br>LOCATION: DD6<br>LAT: 35.2955385<br>Long: 139.6652614<br>Building description: Dry Dock 6<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: H84<br>ECR: <br>Awd: <br>Duration (Days): 90<br>BOD: <br>Priority: 24<br>CWE:  $100,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-10-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1566919.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>DD6</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2955385</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6652614</value>
+				</Data>
+				<Data name='Building description'>
+					<value>Dry Dock 6</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>H84</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>24.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $100,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6652614,35.2955385,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A47, Provide air conditioning system and lighting fixture at mold loft</name>
+			<description><![CDATA[EPROJECT NUMBER: 1359498<br>LOCATION: A47<br>LAT: 35.2876572<br>Long: 139.6612003<br>Building description: SHIP FITTERS SHOP<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: ECRed<br>Awd: 1/28/2017<br>Duration (Days): 120<br>BOD: 5/9/2017<br>Priority: 83<br>CWE:  $100,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-11-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1359498.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A47</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2876572</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6612003</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SHIP FITTERS SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>ECRed</value>
+				</Data>
+				<Data name='Awd'>
+					<value>1/28/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>120.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>5/9/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>83.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $100,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6612003,35.2876572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A37, Provide and modify architecture, mechanical and electrical equipment.</name>
+			<description><![CDATA[EPROJECT NUMBER: 1373224<br>LOCATION: A37<br>LAT: 35.2888408<br>Long: 139.6638646<br>Building description: ELECTRONICS SHOP X-67<br>Customer: SRF-JRMC<br>Funding: CNIC?<br>PS Code: E2<br>ECR: <br>Awd: <br>Duration (Days): <br>BOD: <br>Priority: 93<br>CWE:  $100,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-12-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1373224.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A37</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2888408</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6638646</value>
+				</Data>
+				<Data name='Building description'>
+					<value>ELECTRONICS SHOP X-67</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>CNIC?</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value></value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>93.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $100,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6638646,35.2888408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inspect Frequency Converter 7</name>
+			<description><![CDATA[EPROJECT NUMBER: 1375887<br>LOCATION: 3029<br>LAT: 35.2888092<br>Long: 139.6660229<br>Building description: SWITCHGEAR/FC BLDG<br>Customer: PW UTIL<br>Funding: UEM<br>PS Code: J7<br>ECR: <br>Awd: <br>Duration (Days): <br>BOD: <br>Priority: 27<br>CWE:  $90,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-13-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1375887.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>3029</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2888092</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6660229</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SWITCHGEAR/FC BLDG</value>
+				</Data>
+				<Data name='Customer'>
+					<value>PW UTIL</value>
+				</Data>
+				<Data name='Funding'>
+					<value>UEM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>J7</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value></value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>27.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $90,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6660229,35.2888092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A47, Replace ceiling board and floor tile at X17 Office</name>
+			<description><![CDATA[EPROJECT NUMBER: 1563664<br>LOCATION: A47<br>LAT: 35.2882002<br>Long: 139.6614149<br>Building description: SHIP FITTERS SHOP<br>Customer: SRF-JRMC<br>Funding: SRM<br>PS Code: H84<br>ECR: <br>Awd: <br>Duration (Days): 90<br>BOD: <br>Priority: 86<br>CWE:  $90,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-14-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1563664.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A47</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2882002</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6614149</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SHIP FITTERS SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>H84</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>86.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $90,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6614149,35.2882002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REPLACE 40A STEAM CDR WATER LINE</name>
+			<description><![CDATA[EPROJECT NUMBER: 1364689<br>LOCATION: 2025<br>LAT: 35.2878544<br>Long: 139.6606906<br>Building description: CONDENSATE RETURN PUMP SHED<br>Customer: PW UTIL<br>Funding: UEM<br>PS Code: E2<br>ECR: 2/19/2017<br>Awd: 5/20/2017<br>Duration (Days): 180<br>BOD: 11/16/2017<br>Priority: 31<br>CWE:  $80,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-15-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1364689.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>2025</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2878544</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6606906</value>
+				</Data>
+				<Data name='Building description'>
+					<value>CONDENSATE RETURN PUMP SHED</value>
+				</Data>
+				<Data name='Customer'>
+					<value>PW UTIL</value>
+				</Data>
+				<Data name='Funding'>
+					<value>UEM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>2/19/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>5/20/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>180.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>11/16/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>31.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $80,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6606906,35.2878544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-2043, Replace electrical wire rope hoist and trolley unit at Crane 2043-34 and 35.</name>
+			<description><![CDATA[EPROJECT NUMBER: 1383213<br>LOCATION: 2043<br>LAT: 35.2877658<br>Long: 139.6621508<br>Building description: ELECTRICAL SHOP/QA OFFICE<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: 1/13/2017<br>Awd: 4/13/2017<br>Duration (Days): 120<br>BOD: 8/11/2017<br>Priority: 16<br>CWE:  $60,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-16-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1383213.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>2043</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2877658</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6621508</value>
+				</Data>
+				<Data name='Building description'>
+					<value>ELECTRICAL SHOP/QA OFFICE</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>1/13/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>4/13/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>120.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>8/11/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>16.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $60,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6621508,35.2877658,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REPLACE DETERIORATED SEWAGE PIPES AND CONNECTION POINTS AT PIER NO. 6.</name>
+			<description><![CDATA[EPROJECT NUMBER: 1394468<br>LOCATION: 2000<br>LAT: 35.292414<br>Long: 139.6599253<br>Building description: 2000 - Pier 6 - Destroyer Repair Pier<br>Customer: PW UTIL<br>Funding: UEM<br>PS Code: E2<br>ECR: 4/8/2017<br>Awd: 7/7/2017<br>Duration (Days): 90<br>BOD: 10/5/2017<br>Priority: 1<br>CWE:  $50,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-17-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1394468.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>2000</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.292414</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6599253</value>
+				</Data>
+				<Data name='Building description'>
+					<value>2000 - Pier 6 - Destroyer Repair Pier</value>
+				</Data>
+				<Data name='Customer'>
+					<value>PW UTIL</value>
+				</Data>
+				<Data name='Funding'>
+					<value>UEM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>4/8/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>7/7/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>10/5/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>1.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $50,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6599253,35.292414,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-B19, One time SAP Disposal waste for Oil booms.</name>
+			<description><![CDATA[EPROJECT NUMBER: 1394364<br>LOCATION: 4855<br>LAT: 35.2978006<br>Long: 139.6635446<br>Building description: BOAT SHOP<br>Customer: PSNS<br>Funding: CNIC?<br>PS Code: J7<br>ECR: <br>Awd: <br>Duration (Days): <br>BOD: <br>Priority: 33<br>CWE:  $50,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-18-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1394364.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>4855</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2978006</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6635446</value>
+				</Data>
+				<Data name='Building description'>
+					<value>BOAT SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>PSNS</value>
+				</Data>
+				<Data name='Funding'>
+					<value>CNIC?</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>J7</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value></value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>33.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $50,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6635446,35.2978006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A47, Modify existing smoke detectors and install 13 ceiling fans in 3F locker room</name>
+			<description><![CDATA[EPROJECT NUMBER: 1367363<br>LOCATION: A47<br>LAT: 35.2882002<br>Long: 139.66046<br>Building description: SHIP FITTERS SHOP<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: 4/12/2017<br>Awd: 7/11/2017<br>Duration (Days): 90<br>BOD: 10/9/2017<br>Priority: 85<br>CWE:  $50,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-19-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1367363.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A47</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2882002</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.66046</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SHIP FITTERS SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>4/12/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>7/11/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>10/9/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>85.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $50,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.66046,35.2882002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A47, INSTALL CONDUIT AND WIRES (CAT5E) FROM COMM. PANEL TO THREE  ROOMS</name>
+			<description><![CDATA[EPROJECT NUMBER: 1161460<br>LOCATION: A47<br>LAT: 35.2885943<br>Long: 139.6612325<br>Building description: SHIP FITTERS SHOP<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: <br>Awd: <br>Duration (Days): 120<br>BOD: <br>Priority: 81<br>CWE:  $48,500.00 ]]></description>
+			<styleUrl>#icon-seq2-0-20-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1161460.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A47</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2885943</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6612325</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SHIP FITTERS SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>120.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>81.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $48,500.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6612325,35.2885943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Replace guide frame of discharge sluice gates in discharge tunnel J6</name>
+			<description><![CDATA[EPROJECT NUMBER: 1168353<br>LOCATION: J6<br>LAT: 35.295172<br>Long: 139.6640244<br>Building description: DRY DOCK PUMP HSE U/G<br>Customer: SRF-JRMC<br>Funding: SRM<br>PS Code: E2<br>ECR: 1/1/2017<br>Awd: 5/1/2017<br>Duration (Days): 365<br>BOD: 5/1/2018<br>Priority: 4<br>CWE:  $46,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-21-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1168353.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>J6</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.295172</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6640244</value>
+				</Data>
+				<Data name='Building description'>
+					<value>DRY DOCK PUMP HSE U/G</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>1/1/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>5/1/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>365.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>5/1/2018</value>
+				</Data>
+				<Data name='Priority'>
+					<value>4.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $46,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6640244,35.295172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A82 Repair toilet facility and clogged sanitary sewer line</name>
+			<description><![CDATA[EPROJECT NUMBER: 1365096<br>LOCATION: A82<br>LAT: 35.2904622<br>Long: 139.6582712<br>Building description: RIGGERS SHOP X72<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: 1/7/2017<br>Awd: 4/7/2017<br>Duration (Days): 90<br>BOD: 7/6/2017<br>Priority: 8<br>CWE:  $25,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-22-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1365096.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A82</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2904622</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6582712</value>
+				</Data>
+				<Data name='Building description'>
+					<value>RIGGERS SHOP X72</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>1/7/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>4/7/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>7/6/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>8.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $25,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6582712,35.2904622,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-DD6, Replace Existing Portal Crane Boom Rest Stands for LC-42 and LC-43</name>
+			<description><![CDATA[EPROJECT NUMBER: 1553407<br>LOCATION: DD6<br>LAT: 35.2956962<br>Long: 139.664446<br>Building description: Dry Dock 6<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: 1/14/2017<br>Awd: 6/13/2017<br>Duration (Days): 90<br>BOD: 9/11/2017<br>Priority: 22<br>CWE:  $25,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-23-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1553407.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>DD6</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2956962</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.664446</value>
+				</Data>
+				<Data name='Building description'>
+					<value>Dry Dock 6</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>1/14/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>6/13/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>9/11/2017</value>
+				</Data>
+				<Data name='Priority'>
+					<value>22.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $25,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.664446,35.2956962,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-A47, Replace motor and filter of exhaust fan at exterior.</name>
+			<description><![CDATA[EPROJECT NUMBER: 1346263<br>LOCATION: A47<br>LAT: 35.2885943<br>Long: 139.6607068<br>Building description: SHIP FITTERS SHOP<br>Customer: SRF-JRMC<br>Funding: SRM<br>PS Code: E2<br>ECR: 7/30/2017<br>Awd: 10/28/2017<br>Duration (Days): 90<br>BOD: 1/26/2018<br>Priority: 82<br>CWE:  $20,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-24-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1346263.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>A47</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2885943</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6607068</value>
+				</Data>
+				<Data name='Building description'>
+					<value>SHIP FITTERS SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRM</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>7/30/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>10/28/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>1/26/2018</value>
+				</Data>
+				<Data name='Priority'>
+					<value>82.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $20,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6607068,35.2885943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-2078,  Modify existing exhaust duct for the paint burning oven</name>
+			<description><![CDATA[EPROJECT NUMBER: 1367365<br>LOCATION: 2078<br>LAT: 35.2907492<br>Long: 139.6598423<br>Building description: PAINT SHOP<br>Customer: SRF-JRMC<br>Funding: SRF-JRMC<br>PS Code: E2<br>ECR: 10/6/2017<br>Awd: 12/5/2017<br>Duration (Days): 120<br>BOD: 4/4/2018<br>Priority: 34<br>CWE:  $5,000.00 ]]></description>
+			<styleUrl>#icon-seq2-0-25-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1367365.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>2078</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2907492</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.6598423</value>
+				</Data>
+				<Data name='Building description'>
+					<value>PAINT SHOP</value>
+				</Data>
+				<Data name='Customer'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='Funding'>
+					<value>SRF-JRMC</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>E2</value>
+				</Data>
+				<Data name='ECR'>
+					<value>10/6/2017</value>
+				</Data>
+				<Data name='Awd'>
+					<value>12/5/2017</value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>120.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value>4/4/2018</value>
+				</Data>
+				<Data name='Priority'>
+					<value>34.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $5,000.00 </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6598423,35.2907492,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YSK-1907, Assess and Repair Downspouts</name>
+			<description><![CDATA[EPROJECT NUMBER: 1562885<br>LOCATION: 1907<br>LAT: 35.2903883<br>Long: 139.666595<br>Building description: DDYJ GENERAL WAREHOUSE<br>Customer: DEFDEPOT<br>Funding: DLA<br>PS Code: H84<br>ECR: <br>Awd: <br>Duration (Days): 90<br>BOD: <br>Priority: 28<br>CWE:  $-   ]]></description>
+			<styleUrl>#icon-seq2-0-26-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='EPROJECT NUMBER'>
+					<value>1562885.0</value>
+				</Data>
+				<Data name='LOCATION'>
+					<value>1907</value>
+				</Data>
+				<Data name='LAT'>
+					<value>35.2903883</value>
+				</Data>
+				<Data name='Long'>
+					<value>139.666595</value>
+				</Data>
+				<Data name='Building description'>
+					<value>DDYJ GENERAL WAREHOUSE</value>
+				</Data>
+				<Data name='Customer'>
+					<value>DEFDEPOT</value>
+				</Data>
+				<Data name='Funding'>
+					<value>DLA</value>
+				</Data>
+				<Data name='PS Code'>
+					<value>H84</value>
+				</Data>
+				<Data name='ECR'>
+					<value></value>
+				</Data>
+				<Data name='Awd'>
+					<value></value>
+				</Data>
+				<Data name='Duration (Days)'>
+					<value>90.0</value>
+				</Data>
+				<Data name='BOD'>
+					<value></value>
+				</Data>
+				<Data name='Priority'>
+					<value>28.0</value>
+				</Data>
+				<Data name='CWE'>
+					<value> $-   </value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.666595,35.2903883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-seq2-0-0-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-0-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-0-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-0-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-0-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-1-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-1-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-1-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-1-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-1-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-10-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-11.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-10-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-11.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-10-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-10-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-10-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-11-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-12.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-11-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-12.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-11-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-11-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-11-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-12-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-13.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-12-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-13.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-12-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-12-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-12-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-13-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-14.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-13-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-14.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-13-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-13-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-13-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-14-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-15.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-14-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-15.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-14-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-14-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-14-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-15-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-16.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-15-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-16.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-15-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-15-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-15-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-16-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-17.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-16-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-17.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-16-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-16-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-16-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-17-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-18.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-17-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-18.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-17-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-17-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-17-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-18-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-19.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-18-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-19.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-18-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-18-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-18-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-19-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-20.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-19-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-20.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-19-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-19-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-19-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-2-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-3.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-2-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-3.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-2-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-2-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-2-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-20-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-21.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-20-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-21.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-20-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-20-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-20-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-21-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-22.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-21-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-22.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-21-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-21-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-21-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-22-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-23.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-22-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-23.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-22-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-22-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-22-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-23-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-24.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-23-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-24.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-23-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-23-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-23-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-24-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-25.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-24-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-25.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-24-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-24-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-24-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-25-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-26.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-25-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-26.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-25-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-25-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-25-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-26-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-27.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-26-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-27.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-26-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-26-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-26-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-3-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-4.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-3-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-4.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-3-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-3-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-3-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-4-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-5.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-4-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-5.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-4-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-4-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-4-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-5-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-6.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-5-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-6.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-5-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-5-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-5-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-6-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-7.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-6-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-7.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-6-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-6-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-6-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-7-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-8.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-7-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-8.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-7-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-7-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-7-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-8-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-9.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-8-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-9.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-8-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-8-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-8-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq2-0-9-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-10.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq2-0-9-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-10.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq2-0-9-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq2-0-9-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq2-0-9-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
