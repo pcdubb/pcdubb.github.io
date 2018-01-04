@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Draft Login</title>
+
+  <!-- bootstrap and firebase-->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/login.css">
+  <script src="js/jquery-3.1.1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/3.6.5/firebase.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="http://www.w3schools.com/lib/w3data.js"></script>
+
+
+
+
+
+<!-- ++++++++++++++++++++++++ Adding this temp to avoid changing css file ++++++++++++++++++++++++++++++++++ -->
+<style>
+ul {
+    list-style-image: url('https://cdn1.iconfinder.com/data/icons/interface-3/24/Next-16.png');
+cursor: pointer; cursor: hand;
+}
+</style>
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+</head>
+<body>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://www.bbpool.com">bbpool.com</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <div class="navbar-brand" id='welcomeUser'></div>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#" id='disNameUpdate' data-target="#displayNameModal"><div id="navUpName"></div></a></li>
+        <li><a href="#" id='navSignIn' data-toggle="modal" data-target="#login-modal">
+        <div id="navSign">Sign In or Register</div></a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+<!-- ++++++++++++++++++++++++++++ Page Label +++++++++++++++++++++++++++++++++++++++++++ -->
+
+   
+    <div class="container">
+        <h1 class="text-center">Draft Room</h1>
+        <object width="300" height="300" class="center-block" data="html/bball_img.html"> 
+        </object>
+    </div>
+
+<!--<div class="span4 col-xs-offset-4">
+    <div class='col-sm-6'>
+      <h1 class="text-center">Draft Room</h1>
+      <object width="300" height="300" data="html/bball_img.html"> 
+      </object>
+    </div>
+</div>-->
+
+<!--<div class="container">
+    <div class="row">
+      <div class="span4"></div>
+      <div class="span4">
+        <h1 class="text-center">Draft Room</h1>
+        <object width="300" height="300" data="html/bball_img.html"> 
+      </div>
+      <div class="span4"></div>
+    </div>
+</div>-->
+
+<!-- ++++++++++++++++++++++++++++++++++ Whose Turn It is +++++++++++++++++++++++++++++++++++++++ -->
+
+
+<div class="container-fluid">
+        <hr>
+        <ol>
+        <h1 class="text-center">
+        <div id='whose-turn'></div>
+        </h1>
+        <hr>
+        </ol>
+  </div>
+  </div>
+  </div>
+
+<!-- ++++++++++++++++++++++++ Selection box  ++++++++++++++++++++++++++++++++++ -->
+
+<!--<div class="quickstart-user-details-container">
+    Firebase sign-in status: <br>
+    <p>Name: <span id="check-name">Unknown</span></p>
+    <p>email: <span id="check-email">Unknown</span></p>
+    <p>uid: <span id="check-uid">Unknown</span></p>   
+    <p>password from modal: <span id="check-modal"></span></p>  -->
+
+<div class="container">
+        <!-- <div class="span3 col-xs-offset-4"> -->
+            <div class='text-center'>
+            <div class="ui-widget">
+                <div class="row align-items-center justify-content-center">
+                <label for="tags"> <h2 class="text-center">Select a Team: </h2></label><br>
+                </div>
+                <p> Search for a team below.</p>
+                <input align='middle' class='form-control' id="tags">
+            <!-- </div>  -->
+            <button class="btn btn-primary" id='select-btn'>Select Team</button>
+            </div>
+            <div id='show-user'></div>
+            <div id='show-team'></div>
+            <div id='show-team-id'></div>
+        </div> 
+</div>
+    
+
+
+
+<!-- ++++++++++++++++++++++++++++Draft Table +++++++++++++++++++++++++++++++++++++++++++ -->
+<br><br>
+<div class="container "><table class="text-center table table-bordered table-responsive">
+ <br><br><br>
+  <thead>
+  <tr> 
+    <th colspan="11" class="text-center active"><h4>Current Results</h4></th>
+  </tr>
+  <tr>
+    <td style="text-align:center">Draft Position</td>
+    <td>1st</td>
+    <td>2nd</td>
+    <td>3rd</td>
+    <td>4th</td>
+    <td>5th</td>
+    <td>6th</td>
+    <td>7th</td>
+    <td>8th</td>
+    <td>9th</td>
+    <td>10th</td>
+  </tr>
+  <tr>
+    <td>Player</td>
+    <td><b>Chris</b></td>
+    <td><b>Pete</b></td>
+    <td><b>Glen</b></td>
+    <td><b>Greg</b></td>
+    <td><b>Paul</b></td>
+    <td><b>Adam</b></td>
+    <td><b>Marcus</b></td>
+    <td><b>Tom</b></td>
+    <td><b>James</b></td>
+    <td><b>Rod</b></td>
+  </tr>
+  <tr>
+    <td>Shared</td>
+    <td id='pick1'></td>
+    <td id='pick2'></td>
+    <td id='pick3'></td>
+    <td id='pick4'></td>
+    <td id='pick5'></td>
+    <td id='pick6'></td>
+    <td id='pick7'></td>
+    <td id='pick8'></td>
+    <td id='pick9'></td>
+    <td id='pick10'></td>
+  </tr>
+  <tr>
+    <td>1st</td>
+    <td id='pick11'></td>
+    <td id='pick12'></td>
+    <td id='pick13'></td>
+    <td id='pick14'></td>
+    <td id='pick15'></td>
+    <td id='pick16'></td>
+    <td id='pick17'></td>
+    <td id='pick18'></td>
+    <td id='pick19'></td>
+    <td id='pick20'></td>
+  </tr>
+  <tr>
+    <td>2nd</td>
+    <td id='pick30'></td>
+    <td id='pick29'></td>
+    <td id='pick28'></td>
+    <td id='pick27'></td>
+    <td id='pick26'></td>
+    <td id='pick25'></td>
+    <td id='pick24'></td>
+    <td id='pick23'></td>
+    <td id='pick22'></td>
+    <td id='pick21'></td>
+  </tr>
+  <tr>
+    <td>Long Shot</td>
+    <td id='pick40'></td>
+    <td id='pick39'></td>
+    <td id='pick38'></td>
+    <td id='pick37'></td>
+    <td id='pick36'></td>
+    <td id='pick35'></td>
+    <td id='pick34'></td>
+    <td id='pick33'></td>
+    <td id='pick32'></td>
+    <td id='pick31'></td>
+  </tr>
+</table></div>
+
+      <hr>
+</div>
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+<div class="container col-md-4  container-fluid">
+  
+  <h2>Draft Order</h2>
+  <p>current turn highlighted</p>
+    <ol>
+    <div id='draft-order'></div>
+    </ol>
+</div>
+
+
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+<!--Login Modal-->
+<div class="modal fade" id="login-modal" tabindex="-1" data-toggle="modal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+            <div class="loginmodal-container">
+                <h1>Login to Your Account</h1><br>
+            <form id='formfield' method="post">
+                <input type="text" id="modal-email" name="email" placeholder="Email"/>
+                <input type="password" id="modal-password" name="password" placeholder="Password"/>
+                 <div id="signin-errors"></div>
+                <button type="button" value="Login" data-dismiss="modal" aria-hidden="true" id="modal-sign-in" name="signin" class="login loginmodal-submit" style="display: block; width: 100%;">Login</button>
+            </form>
+                
+            <div class="login-help">
+                <a href="#">Register</a> - <a href="#">Forgot Password</a>
+            </div>
+            </div>
+        </div>
+    </div>
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+<!--Logout Modal-->
+<div class="modal fade" id="logout-modal" tabindex="-1" data-toggle="modal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+            <div class="loginmodal-container">
+                <h1>You have logged out</h1><br>
+            <form>
+                <button type="button" data-dismiss="modal" value="Logout" aria-hidden="true" id="modal-sign-out" name="signout" class="login loginmodal-submit" style="display: block; width: 100%;">Dismiss</button>
+            </form>
+            </div>
+        </div>
+    </div>
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+<!--Change displayName Modal-->
+
+<div class="modal fade" id="displayNameModal" data-toggle="modal" tabindex="-1" role="dialog" aria-labelledby="displayNameModal" aria-hidden="true" style="display: none;">
+    <div class="text-center modal-dialog">
+            <div class="modal-content">
+                <h2>Change Display Name</h2><br>
+                <input type="text" id="nameInputModal" name="displayNameModal" placeholder="Display Name"/>
+            <form>
+                <button type="button" data-dismiss="modal" value="Update Display Name" aria-hidden="true" id="modalDisplayName" name="changeDisplayName" class="btn btn-primary" style="width: 50%;">Change Name</button>
+                <br><br>
+            </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+<!-- ++++++++++++++++++++++++++++++After Page Load Javascript+++++++++++++++++++++++++++++++++ -->
+<script src="js/signin.js"></script>
+<script src="js/pop-and-update-list.js"></script>
+<script src="js/turns.js"></script>
+<script src="js/team-select.js"></script>
+</html>
